@@ -2,7 +2,7 @@
 Photoshop action to automatically export image with 900px and PNG-8 ready for Twitter transparent background
 
 # Instructions
-1. Download Set 1.atn in Releases
+1. Download Set 1.atn in [Releases](https://github.com/Alumx/Twitter-PNG-Photoshop-action/releases)
 2. Open Photoshop
 3. Double click the "Set 1.atn"
 4. Open your Actions (Window > Actions)
